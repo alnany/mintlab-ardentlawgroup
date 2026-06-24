@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mintlab-ardentlawgroup.vercel.app/sitemap.xml
